@@ -1,0 +1,33 @@
+nav {
+    background-color: #e7c077;
+    padding: 10px;
+    margin: -8px;
+}
+
+a {
+    font-weight: 200;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    color:  #3D1F1A;
+}
+a:visited {
+    color: #996e43;
+}
+a:hover {
+    background-color:saddlebrown;
+    text-transform: uppercase;
+}
+a:active {
+    background-color: bisque;
+}
+ul {
+    text-align: center;
+    padding: 0px;
+}
+li {
+    list-style: none;
+    display: inline-block;
+    margin: 0px, 200px;
+    padding: 0px, 20px, 0px, 20px;
+}
