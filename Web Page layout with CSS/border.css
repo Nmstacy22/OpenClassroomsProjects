@@ -1,0 +1,21 @@
+body {
+    color: #000;
+    font-family: serif;
+    padding: 20px;
+}
+p { 
+    display: inline;
+    font-size: 28px;
+}
+
+#one {
+    border: 10px, dashed, #000;
+}
+#two {
+    border: 20px, inset, blueviolet;
+    border-radius: 5px;
+}
+#three{ 
+    border: 15px, outset, green;
+    padding: 5px;
+}
